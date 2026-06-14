@@ -1,0 +1,9 @@
+# Laptop (CPU sanity check) -- plain pip install works:
+#   pip install -r requirements.txt
+#
+# These are the only dependencies the from-scratch model needs.
+torch>=2.1
+numpy>=1.24
+
+# Optional, only when you upgrade to a BPE tokenizer on the HPC:
+# tiktoken>=0.5
