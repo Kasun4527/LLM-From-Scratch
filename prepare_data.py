@@ -1,6 +1,5 @@
 """
-prepare_data.py
-===============
+
 Turns raw text into the binary token files the trainer reads.
 
 We use a simple CHARACTER-LEVEL tokenizer here: every distinct character becomes

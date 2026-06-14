@@ -1,6 +1,5 @@
 """
-model.py
-========
+
 A GPT-style (decoder-only) Transformer language model written from scratch.
 
 This is intentionally heavily commented for learning. Every component maps to a
